@@ -5,15 +5,15 @@
       "background.js"
     ]
   },
-  "description": "Close other tabs with same origin",
+  "description": "Close other same origin tabs",
   "icons": {
 	  "128": "icon.png"
   },
   "manifest_version": 2,
-  "name": "close-other-tabs-with-same-origin",
+  "name": "close-other-same-origin-tabs",
   "permissions": [
     "tabs",
     "menus"
   ],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
