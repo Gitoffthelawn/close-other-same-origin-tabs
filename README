@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # variables
-ID="close-other-tabs-with-same-origin"
+ID="close-other-same-origin-tabs"
 BRANCH="main"
 
 # check requirements
